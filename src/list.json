@@ -1,0 +1,96 @@
+{
+    "orders": [
+      {
+        "orderID": "ORD12345",
+        "orderDate": "2024-02-15",
+        "orderAmount": "\u20B9 5,000.00",
+        "transactionFees": "\u20B9 150.00"
+      },
+      {
+        "orderID": "ORD67890",
+        "orderDate": "2024-02-17",
+        "orderAmount": "\u20B9 8,750.50",
+        "transactionFees": "\u20B9 200.25"
+      },
+      {
+        "orderID": "ORD54321",
+        "orderDate": "2024-02-20",
+        "orderAmount": "\u20B9 12,345.67",
+        "transactionFees": "\u20B9 300.00"
+      },
+      {
+        "orders": [
+          {
+            "orderID": "ORD12345",
+            "orderDate": "2024-02-15",
+            "orderAmount": "\u20B9 5,000.00",
+            "transactionFees": "\u20B9 150.00"
+          },
+          {
+            "orderID": "ORD67890",
+            "orderDate": "2024-02-17",
+            "orderAmount": "\u20B9 8,750.50",
+            "transactionFees": "\u20B9 200.25"
+          },
+          {
+            "orderID": "ORD54321",
+            "orderDate": "2024-02-20",
+            "orderAmount": "\u20B9 12,345.67",
+            "transactionFees": "\u20B9 300.00"
+          },
+          {
+            "orderID": "ORD11111",
+            "orderDate": "2024-02-22",
+            "orderAmount": "\u20B9 6,200.00",
+            "transactionFees": "\u20B9 180.50"
+          },
+          {
+            "orderID": "ORD22222",
+            "orderDate": "2024-02-25",
+            "orderAmount": "\u20B9 9,800.75",
+            "transactionFees": "\u20B9 250.00"
+          },
+          {
+            "orderID": "ORD33333",
+            "orderDate": "2024-02-28",
+            "orderAmount": "\u20B9 15,000.25",
+            "transactionFees": "\u20B9 400.00"
+          },
+          {
+            "orderID": "ORD44444",
+            "orderDate": "2024-03-02",
+            "orderAmount": "\u20B9 7,500.50",
+            "transactionFees": "\u20B9 220.75"
+          },
+          {
+            "orderID": "ORD55555",
+            "orderDate": "2024-03-05",
+            "orderAmount": "\u20B9 10,500.00",
+            "transactionFees": "\u20B9 280.00"
+          },
+          {
+            "orderID": "ORD66666",
+            "orderDate": "2024-03-08",
+            "orderAmount": "\u20B9 18,200.30",
+            "transactionFees": "\u20B9 500.50"
+          },
+          {
+            "orderID": "ORD77777",
+            "orderDate": "2024-03-11",
+            "orderAmount": "\u20B9 14,750.25",
+            "transactionFees": "\u20B9 350.00"
+          },
+          {
+            "orderID": "ORD88888",
+            "orderDate": "2024-03-14",
+            "orderAmount": "\u20B9 22,345.00",
+            "transactionFees": "\u20B9 600.75"
+          }
+          
+        ]
+      }
+      
+      
+    ]
+  }
+  
